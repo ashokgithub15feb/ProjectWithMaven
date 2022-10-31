@@ -1,0 +1,2 @@
+# ProjectWithMaven
+Hibernate project
